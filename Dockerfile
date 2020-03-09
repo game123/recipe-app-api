@@ -1,6 +1,6 @@
 
 FROM python:3.7-alpine
-MAINTAINER Visionary Integration Technologies, Ltd
+LABEL maintainer="Visionary Integration Technologies, Ltd"
 
 ENV PYTHONUNBUFFERED 1
 
